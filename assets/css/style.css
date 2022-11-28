@@ -1,0 +1,290 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.header{
+    width: 100%;
+    height: 13vh;
+}
+.thos{
+    float: left;
+    padding-top: 2.4%;
+    padding-left: 2.5%;
+}
+.ul{
+    float: right;
+    margin-top: 2.9%;
+}
+.li{
+    list-style: none;
+    display: inline;
+    padding-right: 40px;
+}
+
+.section1{
+    width: 100%;
+    height: 90vh;
+}
+.dmy{
+    width: 60%;
+    height: 80vh;
+    margin: auto;
+}
+.my{
+    padding-top: 18%;
+    font-size: 76px;
+    text-align: center;
+    text-align-last: center;
+    color: #232323;
+}
+.join{
+    text-align: center;
+    padding-top: 6.7%;
+    font-size: 1.4rem;
+    color: #232323;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.section2{
+    width: 100%;
+    height: 100vh;
+}
+.dimg1{
+    width: 49%;
+    height: 80vh;
+    float: right;
+}
+.img1{
+    width: 88%;
+    height: 55vh;
+    margin-left: 5%;
+}
+.dimg2{
+    width: 49%;
+    height: 80vh;
+}
+.img2{
+    width: 88%;
+    height: 55vh;
+    margin-left: 7.8%;
+}
+.tasty{
+    padding-left: 5%;
+    padding-top: 2.3%;
+    font-size: 1.8rem;
+}
+.hot{
+    padding-top: 2%;
+    font-size: 1.8rem;
+}
+.if{
+    font-size: 1.1rem;
+}
+
+.color-grey{
+    color: #515151;
+}
+.left78{
+padding-left: 7.8%;
+}
+.finding{
+    padding-left: 5%;
+}
+.section3{
+    width: 100%;
+    height: 118vh;
+}
+.dimg4{
+    width: 49%;
+    height: 80vh;
+    float: right;
+}
+.img4{
+    width: 88%;
+    height: 55vh;
+    margin-left: 4.8%;
+}
+.baking{
+    padding-left: 4.8%;
+    padding-top: 2%;
+    font-size: 1.8rem;
+}
+.actually{
+    padding-left: 4.8%;
+    padding-top: 2%;
+    font-size: 1.22rem;
+}
+.data{
+    padding-left: 4.8%;
+}
+.dimg3{
+    width: 49%;
+    height: 80vh;
+    float: left;
+}
+.img3{
+    width: 88%;
+    height: 55vh;
+    margin-left: 7.8%;
+}
+.first{
+    padding-top: 2%;
+    font-size: 1.73rem;
+}
+.growing{
+    padding-top: 2%;
+    font-size: 1.11rem;
+}
+.datapt{
+    padding-top: 1.5%;
+}
+.dbtn1{
+    width: 60%;
+    height: 14vh;
+    background-color: deeppink;
+}
+/* .btn1{
+
+} */
+.section4{
+    width: 100%;
+    height: 125vh;
+    background-color: #F2EDEB;
+}
+.gdiv{
+    width: 37%;
+    height: 125vh;
+    float: left;
+}
+.dofficial{
+    width: 60%;
+    height: 17vh;
+    float: left;
+    margin-top: 64%;
+    margin-left: 3.8%;
+}
+.official{
+    font-size: 2.5rem;
+}
+.dreci{
+    width: 80%;
+    height: 16vh;
+    float: left;
+    margin-left: 3.8%;
+    margin-top: 7%;
+}
+.reci{
+    float: left;
+}
+.dbtn2{
+    width: 70%;
+    height: 12vh;
+    margin-left: 3.8%;
+}
+.btn2{
+    width: 42%;
+    height: 9vh;
+    background-color: #232323;
+    color: #fff;
+    font-size: 1rem;
+}
+.dimg5{
+    float: right;
+    width: 40%;
+    height: 60vh;
+    margin-left: 40%;
+    background-color: #DFD5D1;
+}
+.section5{
+    width: 100%;
+    height: 79vh;
+}
+.dinstagram{
+    width: 69%;
+    height: 10vh;
+    margin-top: 15%;
+    margin-left: 25%;
+}
+.instagram{
+    text-align: center;
+    font-size: 2.8rem;
+}
+.dimg{
+    width: 97%;
+    height: 51vh;
+    margin-top: 8%;
+    margin-left: 1.4%;
+}
+.wimg{
+    width: 22%;
+    height: 48vh;
+}
+.img9{
+    float: left;
+    margin-left: 41.26%;
+}
+.img8{
+    margin-left: 53.5%;
+}
+
+.img7{
+
+}
+.img6{
+
+}
+.section6{
+    width: 100%;
+    height: 60vh;
+    background-color: #E8E3E1;
+    margin-top: 15%;
+}
+.demail{
+    width: 40%;
+    height: 60vh;
+    margin: 0 auto;
+}
+.subscribe{
+    padding-left: 21%;
+}
+.email{
+    width: 75%;
+    height: 7vh;
+    background-color: #F1F1F1;
+    border: none;
+    margin-left: 11%;
+    margin-top: 9%;
+    color: #C0C0C0;
+}
+.address{
+    font-size: 1.3rem;
+    padding-top: 7%;
+    padding-left: 11%;
+}
+.btn3{
+    width: 28%;
+    height: 9vh;
+    background-color: #232323;
+    color: #fff;
+    border: none;
+    margin-top: 3.5%;
+    margin-left: 36%;
+    font-size: 1.1rem;
+}
+.bi bi-instagram{
+    color: black;
+
+}
+.bi bi-facebook{
+    color: black;
+}
+.bi bi-twitter{
+    color: black;
+}
+.bi bi-pinterest{
+    color: black;
+}
+.icons{
+    padding-top: 5%;
+}
